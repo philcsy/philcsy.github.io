@@ -21,7 +21,7 @@ body,html{font-size:14px;}
 .io-black-mode .header-big #search-text{color:#fff;}
 
 /*搜索activate图标颜色*/
-.header-big .search-type input:checked+label:before{content:'';border-width:8px 8px 0px 8px;border-style:solid;border-color:#20c997 transparent transparent;position:absolute;left:50%;top:0;margin-left:-8px}
+.header-big .search-type input:checked+label:before{content:'';border-width:8px 8px 0px 8px;border-style:solid;border-color:#ffffff transparent transparent;position:absolute;left:50%;top:0;margin-left:-8px}
 
 /*主页搜索搜索框(头+底部)字体颜色*/
 .header-big:not(.no-bg) .s-type-list{color:#20c997}
