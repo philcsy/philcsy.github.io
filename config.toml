@@ -34,8 +34,8 @@ publishDir            = "public"					# 站点静态文件保存目录
 
 [params.images]
     favicon           = "assets/images/favicon.webp"
-    searchImageL      = " "		# 搜索部分浅色背景图
-    searchImageD      = " "		# 搜索部分深色背景图
+    searchImageL      = "assets/images/bg.webp"		# 搜索部分浅色背景图
+    searchImageD      = "assets/images/bg.webp"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bt8-expand-light.webp"
     logoExpandDark    = "assets/images/bt8-expand-dark.webp"
     logoCollapseLight = "assets/images/bt.webp"
